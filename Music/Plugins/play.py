@@ -132,7 +132,7 @@ def time_to_seconds(time):
 
 
 
-@Client.on_message(command(["/play", "بارلو" ,"عمرو" ,"كرستين" ,"شغل" ,"تشغيل", f"/play@{BOT_USERNAME}", "تشغيل"]))
+@Client.on_message(command(["/play", "عبدالرحمن" ,"اليكس" ,"مستر" ,"شغل" ,"تشغيل", f"/play@{BOT_USERNAME}", "تشغيل"]))
 async def play(_, message: Message):
     chat_id = message.chat.id
     if message.sender_chat:
