@@ -2,7 +2,7 @@
     "name": "MusicKyura",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/Abdulrahmman8894/barloVC888",
+    "repository": "https://github.com/Abdulrahmman8894/ALIX_MUSIC",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -26,7 +26,7 @@
         "LOG_GROUP_ID": {
             "description": "create a private group and get the group id, add your bot as admin to the group too",
             "required": true,
-            "value": ""
+            "value": "-1001767046600"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
@@ -41,17 +41,17 @@
         "GROUP": {
             "description": "Isi dengan username group tanpa @",
             "required": true,
-            "value": "KyuraSupport"
+            "value": "MR_X_N5"
         },
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "KyuraProjects"
+            "value": "ALIX_MUSlC"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "1663258664"
+            "value": "5154162181 5241675956"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
