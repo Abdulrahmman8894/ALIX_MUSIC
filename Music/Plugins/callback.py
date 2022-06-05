@@ -707,7 +707,7 @@ Group Playlist Playing."""
                     a1,
                 ],
                 [
-                    InlineKeyboardButton(text="🗑 الغاء​", callback_data=f'close2')
+                    InlineKeyboardButton(text="🗑 الغاء", callback_data=f'close2')
                 ]    
             ]
         )
@@ -1017,7 +1017,7 @@ async def rabic(_, query: CallbackQuery):
             InlineKeyboardButton("📡╎قناه السورس", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("🎟╎الاوامر", url="https://t.me/c/1579336292/3"),
+            InlineKeyboardButton("🎟╎الاوامر", url="https://t.me/ALIX_MUSlC/6"),
         ],
         [
            InlineKeyboardButton("🏴‍☠️╎المبرمج", callback_data="vhkcbt"),
@@ -1037,7 +1037,7 @@ async def vhkcbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝗔𝗟𝗜𝗫 ˹✈🔥˼⁩", url=f"https://t.me/AIex_7"
+                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ ٰ𝗔𝗟𝗜𝗫 ˹✈🔥˼⁩", url=f"https://t.me/AIex_7"
                     ),
                 ],
                 [                  
@@ -1058,7 +1058,7 @@ async def sthjbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰٰ𝗔𝗟𝗜𝗫 ˹✈🔥˼⁩", url=f"https://t.me/AIex_7"
+                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ 𝗔𝗟𝗜𝗫 ˹✈🔥˼⁩", url=f"https://t.me/AIex_7"
                     ),
                 ],
                 [                  
