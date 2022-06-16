@@ -26,7 +26,7 @@
         "LOG_GROUP_ID": {
             "description": "create a private group and get the group id, add your bot as admin to the group too",
             "required": true,
-            "value": "-1001767046600"
+            "value": "-1001559425519"
         },
         "API_ID": {
             "description": "your Api ID from my.telegram.org/apps",
