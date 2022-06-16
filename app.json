@@ -46,12 +46,12 @@
          "CHANNEL": {
             "description": "Isi dengan username channel tanpa @",
             "required": true,
-            "value": "ALIX_MUSlC"
+            "value": "MR_X_N4"
         },
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5154162181 5241675956"
+            "value": "5443938270"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !",
