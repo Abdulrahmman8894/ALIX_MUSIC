@@ -707,7 +707,7 @@ Group Playlist Playing."""
                     a1,
                 ],
                 [
-                    InlineKeyboardButton(text="🗑 الغاء​", callback_data=f'close2')
+                    InlineKeyboardButton(text="🗑 الغاء", callback_data=f'close2')
                 ]    
             ]
         )
@@ -1037,7 +1037,7 @@ async def vhkcbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝘼𝙇𝙄𝙓 ˹✈🔥˼⁩", url=f"https://t.me/AIex_7"
+                        "⁨⌯ ٰ𝗗𝗘𝗩 𝗠𝗥_𝗫 ˹✈🔥˼", url=f"https://t.me/MR_X_N7"
                     ),
                 ],
                 [                  
@@ -1058,7 +1058,7 @@ async def sthjbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝘼𝙇𝙄𝙓 ˹✈🔥˼⁩", url=f"https://t.me/AIex_7"
+                        "⁨⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝘼𝙇𝙄𝙓 ˹✈🔥˼", url=f"https://t.me/MR_X_N7"
                     ),
                 ],
                 [                  
