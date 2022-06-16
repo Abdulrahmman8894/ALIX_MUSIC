@@ -1017,7 +1017,7 @@ async def rabic(_, query: CallbackQuery):
             InlineKeyboardButton("📡╎قناه السورس", url=f"https://t.me/{CHANNEL}"),
         ],
         [
-            InlineKeyboardButton("🎟╎الاوامر", url="https://t.me/ALIX_MUSlC/6"),
+            InlineKeyboardButton("🎟╎الاوامر", url="https://t.me/MR_X_N4/4"),
         ],
         [
            InlineKeyboardButton("🏴‍☠️╎المبرمج", callback_data="vhkcbt"),
@@ -1058,7 +1058,7 @@ async def sthjbt(_, query: CallbackQuery):
             [
                 [        
                     InlineKeyboardButton(
-                        "⁨⁨⌯ ٰ𝘿ٌِ𝙀ٓ𝙑 ٰ𝘼𝙇𝙄𝙓 ˹✈🔥˼", url=f"https://t.me/MR_X_N7"
+                        "⁨⁨⌯ ٰ𝗗𝗘𝗩 𝗠𝗥_𝗫 ˹✈🔥˼", url=f"https://t.me/MR_X_N7"
                     ),
                 ],
                 [                  
